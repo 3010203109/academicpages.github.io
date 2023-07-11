@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Linqi Ye / Shanghai University"
+title                    : "Embodied Intelligence Lab / Shanghai University"
 title_separator          : "-"
 name                     : &name "Linqi Ye"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Linqi Ye"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
