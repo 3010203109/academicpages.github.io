@@ -83,11 +83,11 @@ author:
   name             : "Linqi Ye"
   avatar           : "profile.png"
   bio              : # "I am currently an associate professor at the School of Future Technology (Institute of Artificial Intelligence), Shanghai University. I received my B.S. and Ph.D. degrees from Tianjin University in Control Science and Engineering in 2014 and 2019, respectively. From 2016 to 2017, I was a Visiting Scholar at the State University of New York at Buffalo. From 2017 to 2018, I was a Visiting Scientist at Cornell University. From 2019 to 2022, I was a Postdoc at Tsinghua Shenzhen International Graduate School, Tsinghua University. My research interests include humanoid robots and reinforcement learning."
-  location         : # "Location"
-  employer         :
+  location         : "Shanghain"
+  employer         : Shanghai University
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : yelinqi@shu.edu.cn
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
