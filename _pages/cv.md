@@ -11,19 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, Tianjin University, 2014
+* Ph.D in Control Science and Engineering, Tianjin University, 2019
+* Visiting Student in Aerospace Engineering, State University of New York at Buffalo, 2017
+* Visiting Student in Mechanical Engineering, Cornell University, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2019.9~2021.9: PostDoc
+  * Tsinghua University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2021.10~2022.11: Research Assistant
+  * Tsinghua University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
