@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral research fellow in Prof. Bin Liang (http://www.au.tsinghua.edu.cn/info/1194/2144.htm) and Prof. Xueqian Wang’s robotics lab in Tsinghua SIGS. My main study is control theory, mostly control of underactuated systems. I like nonlinear control theory based on the differential geometric approach (relative degree, zero dynamics, output redefinition). I used to work mostly on the control of advanced flight vehicles with nonminimum phase properties, such as hypersonic vehicles, reusable launch vehicles, and vertical take-off and landing aircrafts. I started working on biped robots during my visit to Prof. Andy Ruina’s Biorobotics and Locomotion Lab (http://ruina.tam.cornell.edu/) in Cornell University. My degrees are from Engineering at Tianjin University (B.S. 14, Ph.D. 19).
+I am currently an associate professor at the School of Future Technology (Institute of Artificial Intelligence), Shanghai University. I received my B.S. and Ph.D. degrees from Tianjin University in Control Science and Engineering in 2014 and 2019, respectively. 
+From 2016 to 2017, I was a Visiting Scholar at the State University of New York at Buffalo. From 2017 to 2018, I was a Visiting Scientist at Cornell University. From 2019 to 2022, I was a Postdoc with Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, China. My research interests include humanoid robots and reinforcement learning.
 
 A data-driven personal website
 ======
