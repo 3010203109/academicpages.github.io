@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-#theme: minima
 locale                   : "en-US"
 title                    : "Embodied Intelligence Lab / Shanghai University"
 title_separator          : "-"
