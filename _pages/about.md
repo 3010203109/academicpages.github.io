@@ -13,24 +13,20 @@ From 2016 to 2017, I was a Visiting Scholar at the State University of New York 
 
 Publications
 ======
-
 <img src='/images/JamTac.png'>
 ------
-JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility Environments
-Shoujie Li, **Linqi Ye**, Haixin Yu, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xueqian Wang, Bin Liang 
+**JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility Environments**  
+Shoujie Li, **Linqi Ye**, Haixin Yu, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xueqian Wang, Bin Liang  
 *Soft Robotics, 2023*
-
 ------
-
-------
-Visual–Tactile Fusion for Transparent Object Grasping in Complex Backgrounds
-Shoujie Li, Haixin Yu, Wenbo Ding, Houde Liu, **Linqi Ye**, Chongkun Xia, Xueqian Wang, Xiao-Ping Zhang 
+**Visual–Tactile Fusion for Transparent Object Grasping in Complex Backgrounds**  
+Shoujie Li, Haixin Yu, Wenbo Ding, Houde Liu, **Linqi Ye**, Chongkun Xia, Xueqian Wang, Xiao-Ping Zhang  
 *IEEE Transactions on Robotics, 2023*
-
 ------
-
-
-
+**Bipedal Walking Control by Using Acceleration Factor**  
+Linqi Ye, Xueqian Wang, Houde Liu, Bin Liang, Bo Yuan
+*Nonlinear Dynamics, 2023*
+------
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
