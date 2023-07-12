@@ -19,7 +19,12 @@ Publications
 JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility Environments
 ------
 Shoujie Li, **Linqi Ye**, Haixin Yu, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xueqian Wang, Bin Liang
-*Soft Robotics*
+
+*Soft Robotics, 2023*
+
+
+
+
 
 
 
