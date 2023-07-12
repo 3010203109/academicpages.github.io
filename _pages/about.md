@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a postdoctoral research fellow in Prof. Bin Liang (http://www.au.tsinghua.edu.cn/info/1194/2144.htm) and Prof. Xueqian Wang’s robotics lab in Tsinghua SIGS. My main study is control theory, mostly control of underactuated systems. I like nonlinear control theory based on the differential geometric approach (relative degree, zero dynamics, output redefinition). I used to work mostly on the control of advanced flight vehicles with nonminimum phase properties, such as hypersonic vehicles, reusable launch vehicles, and vertical take-off and landing aircrafts. I started working on biped robots during my visit to Prof. Andy Ruina’s Biorobotics and Locomotion Lab (http://ruina.tam.cornell.edu/) in Cornell University. My degrees are from Engineering at Tianjin University (B.S. 14, Ph.D. 19).
 
 A data-driven personal website
 ======
