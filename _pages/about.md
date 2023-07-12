@@ -13,16 +13,14 @@ From 2016 to 2017, I was a Visiting Scholar at the State University of New York 
 
 Publications
 ======
+---
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/JamTac.png'>"
+---
 JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility Environments
-======
 Shoujie Li, Linqi Ye, Haixin Yu, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xueqian Wang, Bin Liang
 Soft Robotics
 
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/JamTac.png'>"
-collection: portfolio
----
+
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
