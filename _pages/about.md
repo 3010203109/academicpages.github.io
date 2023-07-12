@@ -11,7 +11,7 @@ redirect_from:
 I am currently an associate professor at the School of Future Technology (Institute of Artificial Intelligence), Shanghai University. I received my B.S. and Ph.D. degrees from Tianjin University in Control Science and Engineering in 2014 and 2019, respectively. 
 From 2016 to 2017, I was a Visiting Scholar at the State University of New York at Buffalo. From 2017 to 2018, I was a Visiting Scientist at Cornell University. From 2019 to 2022, I was a Postdoc with Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, China. My research interests include humanoid robots and reinforcement learning.
 
-A data-driven personal website
+Publications
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
