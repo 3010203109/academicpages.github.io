@@ -9,12 +9,20 @@ redirect_from:
 ---
 
 I am currently an associate professor at the School of Future Technology (Institute of Artificial Intelligence), Shanghai University. I received my B.S. and Ph.D. degrees from Tianjin University in Control Science and Engineering in 2014 and 2019, respectively. 
-From 2016 to 2017, I was a Visiting Scholar at the State University of New York at Buffalo. From 2017 to 2018, I was a Visiting Scientist at Cornell University. From 2019 to 2022, I was a Postdoc with Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, China. My research interests include humanoid robots and reinforcement learning.
+From 2016 to 2017, I was a Visiting Scholar at the State University of New York at Buffalo. From 2017 to 2018, I was a Visiting Scientist at Cornell University. From 2019 to 2022, I was a Postdoc at Tsinghua University. My research interests include legged robots, reinforcement learning, and embodied AI.
 
 Publications
 ======
-<img src='/images/JamTac.png'>
+<img src='/images/instruction learning.png'>
+------
+**From Knowing to Doing: Learning Diverse Motor Skills through Instruction Learning**  
 
+**Linqi Ye**, Jiayi Li, Yi Cheng, Xianhao Wang, Bin Liang, Yan Peng
+
+*arXiv, 2023*
+
+------
+<img src='/images/JamTac.png'>
 ------
 **JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility Environments**  
 
@@ -30,6 +38,7 @@ Shoujie Li, Haixin Yu, Wenbo Ding, Houde Liu, **Linqi Ye**, Chongkun Xia, Xueqia
 *IEEE Transactions on Robotics, 2023*
 
 ------
+<iframe src="//player.bilibili.com/player.html?bvid=BV15V4y187Hn&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 **Bipedal Walking Control by Using Acceleration Factor**  
 
 **Linqi Ye**, Xueqian Wang, Houde Liu, Bin Liang, Bo Yuan
@@ -43,8 +52,6 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-<iframe src="//player.bilibili.com/player.html?bvid=BV15V4y187Hn&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="800" height="450" allowfullscreen="true"> </iframe>
 
 Getting started
 ======
