@@ -42,7 +42,6 @@ Shoujie Li, Haixin Yu, Wenbo Ding, Houde Liu, Linqi Ye, Chongkun Xia, Xueqian Wa
 *IEEE Transactions on Robotics, 2023*
 
 ------
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -52,6 +51,8 @@ Shoujie Li, Haixin Yu, Wenbo Ding, Houde Liu, Linqi Ye, Chongkun Xia, Xueqian Wa
 }
 
 .image {
+  width: 200px;  /* 你可以根据需要调整这个数值 */
+  height: auto;  /* 这样设置可以保持图片的原始宽高比 */
   margin-right: 20px;  /* 调整你需要的间隔 */
 }
 </style>
