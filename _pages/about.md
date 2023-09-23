@@ -17,7 +17,7 @@ Publications
 **From Knowing to Doing: Learning Diverse Motor Skills through Instruction Learning**  
 **Linqi Ye**, Jiayi Li, Yi Cheng, Xianhao Wang, Bin Liang, Yan Peng
 *arXiv, 2023*
-video(https://www.bilibili.com/video/BV1xV411A7hh/)
+[video](https://www.bilibili.com/video/BV1xV411A7hh/)
 
 ------
 <img src='/images/JamTac.png'>
@@ -36,7 +36,7 @@ Shoujie Li, Haixin Yu, Wenbo Ding, Houde Liu, **Linqi Ye**, Chongkun Xia, Xueqia
 **Bipedal Walking Control by Using Acceleration Factor**  
 **Linqi Ye**, Xueqian Wang, Houde Liu, Bin Liang, Bo Yuan
 *Nonlinear Dynamics, 2023*
-video(https://www.bilibili.com/video/BV15V4y187Hn/)
+[video](https://www.bilibili.com/video/BV15V4y187Hn/)
 
 ------
 
