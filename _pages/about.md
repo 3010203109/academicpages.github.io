@@ -42,9 +42,9 @@ Shoujie Li, Haixin Yu, Wenbo Ding, Houde Liu, Linqi Ye, Chongkun Xia, Xueqian Wa
 *IEEE Transactions on Robotics, 2023*
 
 ------
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
     <img src='/images/acceleration factor.jpg' style="flex-basis: 20%; margin-right: 10px;">
-    <p style="flex-basis: 80%; margin-right: 10px;">**Bipedal Walking Control by Using Acceleration Factor**</p>
+    <p style="flex-basis: 80%; text-align: justify;">**Bipedal Walking Control by Using Acceleration Factor**</p>
     <p>Linqi Ye, Xueqian Wang, Houde Liu, Bin Liang, Bo Yuan</p>
     <p>*Nonlinear Dynamics, 2023*</p>
     <a href="https://www.bilibili.com/video/BV15V4y187Hn/">[video]</a>
