@@ -17,7 +17,7 @@ Publications
 
 **From Knowing to Doing: Learning Diverse Motor Skills through Instruction Learning**  
 
-**Linqi Ye**, Jiayi Li, Yi Cheng, Xianhao Wang, Bin Liang, Yan Peng  
+Linqi Ye, Jiayi Li, Yi Cheng, Xianhao Wang, Bin Liang, Yan Peng  
 
 *arXiv, 2023*  
 
@@ -28,7 +28,7 @@ Publications
 
 **JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility Environments**  
 
-Shoujie Li, **Linqi Ye**, Haixin Yu, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xueqian Wang, Bin Liang  
+Shoujie Li, Linqi Ye, Haixin Yu, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xueqian Wang, Bin Liang  
 
 *Soft Robotics, 2023*
 
@@ -37,7 +37,7 @@ Shoujie Li, **Linqi Ye**, Haixin Yu, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xue
 
 **Visual–Tactile Fusion for Transparent Object Grasping in Complex Backgrounds**  
 
-Shoujie Li, Haixin Yu, Wenbo Ding, Houde Liu, **Linqi Ye**, Chongkun Xia, Xueqian Wang, Xiao-Ping Zhang  
+Shoujie Li, Haixin Yu, Wenbo Ding, Houde Liu, Linqi Ye, Chongkun Xia, Xueqian Wang, Xiao-Ping Zhang  
 
 *IEEE Transactions on Robotics, 2023*
 
@@ -46,7 +46,7 @@ Shoujie Li, Haixin Yu, Wenbo Ding, Houde Liu, **Linqi Ye**, Chongkun Xia, Xueqia
 
 **Bipedal Walking Control by Using Acceleration Factor**  
 
-**Linqi Ye**, Xueqian Wang, Houde Liu, Bin Liang, Bo Yuan  
+Linqi Ye, Xueqian Wang, Houde Liu, Bin Liang, Bo Yuan  
 
 *Nonlinear Dynamics, 2023*  
 
@@ -57,19 +57,170 @@ Shoujie Li, Haixin Yu, Wenbo Ding, Houde Liu, **Linqi Ye**, Chongkun Xia, Xueqia
 
 **HeterBot: A heterogeneous mobile manipulation robot for versatile operation**
 
-**Linqi Ye**, Jiatai Guo, Jiayi Li, Houde Liu, Xueqian Wang, Bin Liang
+Linqi Ye, Jiatai Guo, Jiayi Li, Houde Liu, Xueqian Wang, Bin Liang
 
 *IET Cyber‐Systems and Robotics, 2023*
 
 [video](https://www.bilibili.com/video/BV1RV411M7JJ/?vd_source=25bf190003ff1ebd36e7649d3641e141)
 
 ------
-<img src='/images/acceleration factorthuquad.png'>
+<img src='/images/acceleration factor.png'>
 
 **Design and control of a robotic system with legs, wheels, and a reconfigurable arm**
 
-**Linqi Ye**, Houde Liu, Xueqian Wang, Bin Liang, Bo Yuan
+Linqi Ye, Houde Liu, Xueqian Wang, Bin Liang, Bo Yuan
 
 *IET Cyber‐Systems and Robotics, 2022*
 
 [video](https://www.bilibili.com/video/BV1A44y1Z7LB/)
+
+------
+<img src='/images/sbc.png'>
+
+**The Simplest Balance Controller for Dynamic Walking**
+
+Linqi Ye, Xueqian Wang, Houde Liu, Bin Liang
+
+*ROBIO, 2022*
+
+[video](https://www.bilibili.com/video/BV1P84y1i7ah/)
+
+------
+<img src='/images/tata.png'>
+
+**TaTa: A Universal Jamming Gripper with High-Quality Tactile Perception and Its Application to Underwater Manipulation**
+
+Shoujie Li, Xianghui Yin, Chongkun Xia, Linqi Ye, Xueqian Wang, Bin Liang
+
+*ICRA, 2022*
+
+------
+<img src='/images/antbot.png'>
+
+**Ant3DBot A Modular Self-reconfigurable Robot with Multiple Configurations**
+
+Sen Niu, Linqi Ye, Houde Liu, Bin Liang, Zongxiang Jin
+
+*ICIRA, 2022*
+
+[video](https://www.bilibili.com/video/BV1Ro4y1V768/?spm_id_from=333.999.0.0)
+
+------
+<img src='/images/OBI.png'>
+
+**Anti-Windup Robust Backstepping Control for an Underactuated Reusable Launch Vehicle**
+
+Linqi Ye, Bailing Tian, Houde Liu, Qun Zong, Bin Liang, Bo Yuan
+
+*IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022*
+
+------
+<img src='/images/EPID.png'>
+
+**An Extended PID Control Framework**
+
+Linqi Ye, Bin Liang, Xueqian Wang
+
+*CCTA, 2021*
+
+[video](https://www.bilibili.com/video/BV1164y1Q7Ev/?vd_source=25bf190003ff1ebd36e7649d3641e141)
+
+------
+<img src='/images/experience replay.png'>
+
+**Output Tracking of Uncertain Nonminimum Phase Systems by Experience Replay**
+
+Linqi Ye, Qun Zong, Bailing Tian
+
+*IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2021*
+
+[video]()
+
+------
+<img src='/images/UTC.png'>
+
+**Universal Tracking Controller with Disturbance Rejection**
+
+Linqi Ye
+
+*SMC, 2021*
+
+[video](https://www.bilibili.com/video/BV1mb4y1y7vJ/)
+
+------
+<img src='/images/symmetry.png'>
+
+**Symmetry in Biped Walking**
+
+Linqi Ye, Xueqian Wang, Houde Liu, Bin Liang
+
+*SMC, 2021*
+
+[video](https://www.bilibili.com/video/BV18f4y1E7ru/)
+
+------
+<img src='/images/iros.png'>
+
+**Multi-task Control for a Quadruped Robot with Changeable Leg**
+
+Linqi Ye, Houde Liu, Xueqian Wang, Bin Liang, Bo Yuan
+
+*IROS, 2020*
+
+[video](https://www.bilibili.com/video/BV1rK411K7Si/)
+
+------
+<img src='/images/mill.jpg'>
+
+**Impacts of Metarhizium brunneum F52 infection on the flight performance of Asian longhorned beetles, Anoplophora glabripennis**
+
+Eric H. Clifton, Jason Cortell, Linqi Ye, Thomas Rachman, Ann E. Hajek
+
+*PLOS ONE, 2019*
+
+------
+<img src='/images/tie.png'>
+
+**Output-Redefinition-Based Dynamic Inversion Control for a Nonminimum Phase Hypersonic Vehicle**
+
+Linqi Ye, Qun Zong, John L. Crassidis, Bailing Tian
+
+*IEEE Transactions on Industrial Electronics, 2018*
+
+------
+<img src='/images/humanoids.png'>
+
+**Understand Human Walking through a 2D Inverted Pendulum Model**
+
+Linqi Ye, Xuechao Chen
+
+*Humanoids, 2018*
+
+------
+<img src='/images/ship.png'>
+
+**Tracking control of an underactuated ship by modified dynamic inversion**
+
+Linqi Ye, Qun Zong
+
+*ISA Transactions, 2018*
+
+------
+<img src='/images/hsv.png'>
+
+**Control-oriented Modeling and Adaptive Backstepping Control for a Nonminimum Phase Hypersonic Vehicle**
+
+Linqi Ye, Qun Zong, Bailing Tian, Xiuyun Zhang, Fang Wang
+
+*ISA Transactions, 2017*
+
+------
+<img src='/images/QoS.png'>
+
+**A Distributed Agents QoS Routing Algorithm to Transmit Electrical Power Measuring Information in Last Mile Access Wireless Sensor Networks**
+
+Ting Yang, Wenping Xiang, Linqi Ye
+
+*International Journal of Distributed Sensor Networks, 2013*
+
+------
