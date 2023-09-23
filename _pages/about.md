@@ -15,8 +15,8 @@ Publications
 ======
 <img src='/images/instruction learning.png'>
 **From Knowing to Doing: Learning Diverse Motor Skills through Instruction Learning**  
-###**Linqi Ye**, Jiayi Li, Yi Cheng, Xianhao Wang, Bin Liang, Yan Peng  
-###*arXiv, 2023*  
+### **Linqi Ye**, Jiayi Li, Yi Cheng, Xianhao Wang, Bin Liang, Yan Peng  
+### *arXiv, 2023*  
 [video](https://www.bilibili.com/video/BV1xV411A7hh/)
 
 ------
