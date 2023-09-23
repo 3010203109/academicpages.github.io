@@ -14,38 +14,29 @@ From 2016 to 2017, I was a Visiting Scholar at the State University of New York 
 Publications
 ======
 <img src='/images/instruction learning.png'>
-
-------
 **From Knowing to Doing: Learning Diverse Motor Skills through Instruction Learning**  
-
 **Linqi Ye**, Jiayi Li, Yi Cheng, Xianhao Wang, Bin Liang, Yan Peng
-
 *arXiv, 2023*
+video(https://www.bilibili.com/video/BV1xV411A7hh/)
 
 ------
-
 <img src='/images/JamTac.png'>
-------
 **JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility Environments**  
-
 Shoujie Li, **Linqi Ye**, Haixin Yu, Xianghui Yin, Chongkun Xia, Wenbo Ding, Xueqian Wang, Bin Liang  
-
 *Soft Robotics, 2023*
 
 ------
+<img src='/images/transparent grasp.jpg'>
 **Visual–Tactile Fusion for Transparent Object Grasping in Complex Backgrounds**  
-
 Shoujie Li, Haixin Yu, Wenbo Ding, Houde Liu, **Linqi Ye**, Chongkun Xia, Xueqian Wang, Xiao-Ping Zhang  
-
 *IEEE Transactions on Robotics, 2023*
 
 ------
-<iframe src="//player.bilibili.com/player.html?bvid=BV15V4y187Hn&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<img src='/images/acceleration factor.jpg'>
 **Bipedal Walking Control by Using Acceleration Factor**  
-
 **Linqi Ye**, Xueqian Wang, Houde Liu, Bin Liang, Bo Yuan
-
 *Nonlinear Dynamics, 2023*
+video(https://www.bilibili.com/video/BV15V4y187Hn/)
 
 ------
 
