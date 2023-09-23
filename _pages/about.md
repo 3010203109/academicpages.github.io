@@ -14,6 +14,7 @@ From 2016 to 2017, I was a Visiting Scholar at the State University of New York 
 Publications
 ======
 <img src='/images/instruction learning.png'>
+
 ------
 **From Knowing to Doing: Learning Diverse Motor Skills through Instruction Learning**  
 
@@ -22,6 +23,7 @@ Publications
 *arXiv, 2023*
 
 ------
+
 <img src='/images/JamTac.png'>
 ------
 **JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility Environments**  
